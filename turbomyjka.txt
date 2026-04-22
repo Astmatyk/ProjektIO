@@ -5,7 +5,7 @@ prowadzić do pomyłek i nakładania się wizyt.
 Chcąc zmodernizować biznes, właściciel planuje wdrożenie platformy, która umożliwi klientom samodzielne zgłaszanie „brudnych problemów” 
 poprzez wybranie kategorii obiektu oraz wgranie zdjęcia, na podstawie którego system dokona wstępnej wyceny.
 Proces rezerwacji zakłada, że po wybraniu terminu zlecenie otrzymuje status „niepotwierdzone”, a po opłaceniu zadatku przez bramkę płatności zmienia się 
-ono na status „pewne”.
+ono na status „pewne”. W przypadku braku potwierdzenia zlecenia w ciągu 2 tygodni, rezerwacja zmienia status na "odrzucone". Po pół roku jest usuwana.
 Każdy pracownik terenowy (operator myjki) zostanie wyposażony w tablet z aplikacją, w której widzi harmonogram prac, mapę dojazdu oraz instrukcje od klienta, 
 takie jak konieczność zamknięcia okien czy zabezpieczenia zwierząt.
 Operator po przyjeździe na miejsce musi odnotować w systemie rozpoczęcie pracy, co zmienia stan urządzenia w bazie danych na „w natarciu”.
