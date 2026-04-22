@@ -1,1 +1,0 @@
-- Dodać dział serwisowy obsługujący urządzenia, przykładowo czasowe przeglądy lub podstawianie urządzeń zastępczych
